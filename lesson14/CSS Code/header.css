@@ -1,0 +1,70 @@
+div {
+    font-family:arial;
+}
+
+
+.profile-photo{
+    height:40px;
+    width:40px;
+    border-radius:20px;
+    object-fit: cover;
+}
+
+body{
+   height: 3000px;
+}
+
+
+.container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position:fixed;
+    right:0;
+    left:0;
+    top: 0;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:50px;
+    padding-left:50px;
+}
+
+
+.left-side{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+
+.name{
+    font-weight: bold;
+    margin-left:8px;
+}
+
+
+
+.add-button{
+    background-color: rgb(24, 119, 242);
+    color:white;
+    padding:8px;
+    border:none;
+    border-radius: 5px;
+    font-weight:bold;
+}
+
+.message{
+    background-color: rgb(230, 230, 230);
+    color:black;
+    padding:8px;
+    border-radius:5px;
+    border:none;
+    font-weight:bold;
+    margin-left:3px;
+
+}
+
+
+    
