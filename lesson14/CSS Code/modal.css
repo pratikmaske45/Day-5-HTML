@@ -49,3 +49,7 @@ border-radius:5px;
     font-family:arial;
     margin-bottom:12px;
 }
+
+.close{
+    cursor:pointer;
+}
