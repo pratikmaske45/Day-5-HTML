@@ -2,7 +2,7 @@ body {
   height: 3000px;
 }
 
-.bottom-right {
+.close-button {
   background-color: gray;
   position: fixed;
   bottom: 20px;
